@@ -19,4 +19,4 @@ Also keep in mind Interstellar will be accessable only during Friday 8/8/2025 as
 Any question or quiries please email harrysonnn1@hotmail.com
 From Dev team (╯°□°)╯╰(°□°╰)
 
-![My cool img](https://raw.githubusercontent.com/sjjdhdndbdbf/proxyonly/refs/heads/website/games/proxy/Interstellar.jpg)
+![My cool img](https://raw.githubusercontent.com/sjjdhdndbdbf/proxyonly/refs/heads/main/Interstellar.jpg)
