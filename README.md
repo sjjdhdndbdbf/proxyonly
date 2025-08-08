@@ -11,8 +11,11 @@ Well this page will be up until the heat dies down for people in the Melbourne R
 
 # THIS INTERSTELLAR LINKS RELAY TO CLOSEST GITHUB SERVER also it is only working during Australian week days 9AM-3PM AEST
 # I swear if you just skipped all the reading and scrolled all the way to the bottom you have less attention-span of a goldfish and you are a brain dead grow a garden player.
-LINK TO interstellar 2 core https://legendary-dollop-x54jp95rg459h64-8080.app.github.dev/
-Also keep in mind Interstellar will be accessable only during Friday 8/8/2025 as after that period it will be a discord exclusive. The link to join the discord server is...
+LINK TO interstellar 2 core https://fuzzy-tribble-pj9pp7rxw79whqv9-8080.app.github.dev/
+
+# PROXY IS DISCORD MEMBER ONLY
+
+The link to join the discord server is...
 # https://discord.gg/bUhB26NxNC
 
 
