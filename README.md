@@ -11,7 +11,7 @@ Well this page will be up until the heat dies down for people in the Melbourne R
 
 # THIS INTERSTELLAR LINKS RELAY TO CLOSEST GITHUB SERVER also it is only working during Australian week days 9AM-3PM AEST
 # I swear if you just skipped all the reading and scrolled all the way to the bottom you have less attention-span of a goldfish and you are a brain dead grow a garden player.
-LINK TO interstellar 2 core https://fuzzy-tribble-pj9pp7rxw79whqv9-8080.app.github.dev/
+LINK TO interstellar 2 core https://urban-halibut-r4wpp7gjp9693pv5r-8080.app.github.dev/
 
 # PROXY IS DISCORD MEMBER ONLY
 
